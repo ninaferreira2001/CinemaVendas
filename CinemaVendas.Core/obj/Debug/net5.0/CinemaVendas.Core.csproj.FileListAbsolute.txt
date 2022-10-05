@@ -1,0 +1,12 @@
+C:\Users\nicole.ferreira2\source\repos\CinemaVendas.Core\CinemaVendas.Core\bin\Debug\net5.0\CinemaVendas.Core.deps.json
+C:\Users\nicole.ferreira2\source\repos\CinemaVendas.Core\CinemaVendas.Core\bin\Debug\net5.0\CinemaVendas.Core.dll
+C:\Users\nicole.ferreira2\source\repos\CinemaVendas.Core\CinemaVendas.Core\bin\Debug\net5.0\ref\CinemaVendas.Core.dll
+C:\Users\nicole.ferreira2\source\repos\CinemaVendas.Core\CinemaVendas.Core\bin\Debug\net5.0\CinemaVendas.Core.pdb
+C:\Users\nicole.ferreira2\source\repos\CinemaVendas.Core\CinemaVendas.Core\obj\Debug\net5.0\CinemaVendas.Core.csproj.AssemblyReference.cache
+C:\Users\nicole.ferreira2\source\repos\CinemaVendas.Core\CinemaVendas.Core\obj\Debug\net5.0\CinemaVendas.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicole.ferreira2\source\repos\CinemaVendas.Core\CinemaVendas.Core\obj\Debug\net5.0\CinemaVendas.Core.AssemblyInfoInputs.cache
+C:\Users\nicole.ferreira2\source\repos\CinemaVendas.Core\CinemaVendas.Core\obj\Debug\net5.0\CinemaVendas.Core.AssemblyInfo.cs
+C:\Users\nicole.ferreira2\source\repos\CinemaVendas.Core\CinemaVendas.Core\obj\Debug\net5.0\CinemaVendas.Core.csproj.CoreCompileInputs.cache
+C:\Users\nicole.ferreira2\source\repos\CinemaVendas.Core\CinemaVendas.Core\obj\Debug\net5.0\CinemaVendas.Core.dll
+C:\Users\nicole.ferreira2\source\repos\CinemaVendas.Core\CinemaVendas.Core\obj\Debug\net5.0\ref\CinemaVendas.Core.dll
+C:\Users\nicole.ferreira2\source\repos\CinemaVendas.Core\CinemaVendas.Core\obj\Debug\net5.0\CinemaVendas.Core.pdb

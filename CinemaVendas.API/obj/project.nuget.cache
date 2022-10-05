@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "bmX5i8iesJBFBtGpmUdj+i3mIFnucJUc1v1fYdmYE/vhIzx2SRuEs5A7XZR1x5QqmNqbT/mre87IDLzupysKgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nicole.ferreira2\\source\\repos\\CinemaVendas.Core\\CinemaVendas.API\\CinemaVendas.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nicole.ferreira2\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\nicole.ferreira2\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\nicole.ferreira2\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\nicole.ferreira2\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\nicole.ferreira2\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\nicole.ferreira2\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
